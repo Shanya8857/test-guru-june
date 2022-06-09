@@ -1,4 +1,6 @@
 # README
+Test guru june:
+List of real-world entities for project tests: Users (passing tests), users (administering tests), tests, test categories, test difficulty level.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
